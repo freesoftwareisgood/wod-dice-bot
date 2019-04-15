@@ -1,1 +1,1 @@
-worker: yarn bot.js
+worker: node bot.js
